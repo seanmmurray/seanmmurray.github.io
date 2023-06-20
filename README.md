@@ -1,6 +1,6 @@
 # Sean M. Murray
 
-## About me
+## About me:
 
 Class of 2023 graduate in [environmental data science](https://vt.edu/academics/majors/environmental-data-science.html) at Virginia Tech.
 
@@ -9,7 +9,7 @@ Class of 2023 graduate in [environmental data science](https://vt.edu/academics/
 [GitHub](https://github.com/seanmmurray) <br>
 [Diploma](https://seanmmurray.github.io/docs/assets/CeD.23YJ-1UXU-SSYF.pdf) <br>
 
-## Contact
+## Contact:
 
 seanmmurray@vt.edu
 
