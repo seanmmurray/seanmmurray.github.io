@@ -9,6 +9,11 @@ Class of 2023 graduate in [environmental data science](https://vt.edu/academics/
 [GitHub](https://github.com/seanmmurray) <br>
 [Diploma](https://seanmmurray.github.io/docs/assets/CeD.23YJ-1UXU-SSYF.pdf) <br>
 
+## Portfolio:
+
+[Great Smoky Mountains Phenology Web App](https://jp-gannon.shinyapps.io/Phenology-EDS23/) <br>
+[Investigating environmental values & psychological barriers to sustainable behaviors among college students](https://doi.org/10.52214/consilience.vi26.10153) <br>
+
 ## Contact:
 
 seanmmurray@vt.edu
